@@ -27,5 +27,10 @@ implement are still being designed. Meanwhile, the slot for this role in
 the [tractoverse](https://tractoverse.github.io/) family is reserved by
 a placeholder export.
 
-# 
+# Package index
+
+## All functions
+
+- [`optimal_transport()`](https://tractoverse.github.io/bot/reference/optimal_transport.md)
+  : Optimal transport between bundles
 
