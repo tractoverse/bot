@@ -8,7 +8,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/tractoverse/bot/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/tractoverse/bot/blob/main/DESCRIPTION)
 
 Stamm A (2026). *bot: Bundle Optimal Transport*. R package version
 0.0.0.9000, <https://github.com/tractoverse/bot>.
