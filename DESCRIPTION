@@ -4,11 +4,14 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Aymeric", "Stamm", , "aymeric.stamm@cnrs.fr", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8725-3654"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Statistical methods for diffusion MRI tractography data,
+    centered on optimal transport between fiber bundles. Part of the
+    tractoverse family of packages.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
+Suggests: 
+    pkgdown
 URL: https://github.com/tractoverse/bot
 BugReports: https://github.com/tractoverse/bot/issues
