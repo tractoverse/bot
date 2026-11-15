@@ -4,6 +4,14 @@
 
 # bot <a href="https://tractoverse.github.io/bot/"><img src="man/figures/logo.png" align="right" height="138" alt="bot website" /></a>
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/tractoverse/bot/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tractoverse/bot/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/tractoverse/bot/graph/badge.svg)](https://app.codecov.io/gh/tractoverse/bot)
+[![pkgdown](https://github.com/tractoverse/bot/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/tractoverse/bot/actions/workflows/pkgdown.yaml)
+<!-- badges: end -->
+
 The goal of [**bot**](https://tractoverse.github.io/bot/) (**B**undle
 **O**ptimal **T**ransport) is to implement statistical methods for
 diffusion MRI tractography data, centered on optimal transport between
